@@ -13,7 +13,7 @@ be this plan about:
 
 this is literally an introduction to **Processing**.
 
-(**Processing**)[http://www.processing.org/] is a programming language.
+[**Processing**](http://www.processing.org/] is a programming language.
 it's used for writing visual and interactive programs that, for example, draw fancy and colorful shapes on a window, create an full-screen aquarium with fish that avoids your mouse and reacts to your sound, or a piano that makes a weird sound per key you press.
 
 the club **ccc-cgj** likes all this interactive stuff and plans to hold this workshop to:
@@ -52,7 +52,7 @@ one workshop event takes 2 hours in the afternoon, that is, **14:00 to 16:00**. 
 ##what we need
 
 * a projector and a screen to use slides during the workshop; and
-* a power source to power up computers for us as well as the audience (we might bring (extension cords)[https://en.wikipedia.org/wiki/Power_strip] on our own.).
+* a power source to power up computers for us as well as the audience (we might bring [extension cords](https://en.wikipedia.org/wiki/Power_strip) on our own.).
 
 ##what is best with
 
