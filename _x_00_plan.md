@@ -2,7 +2,7 @@
 
 workshop **_introduction to processing_**
 
-be this plan about:
+Be this plan about:
 
 0. what this workshop is about
 1. time and max. audience
