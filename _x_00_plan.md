@@ -43,9 +43,9 @@ day 1 is more about **Processing**. on day 1, we:
 #time and max. audience
 
 this is a weekend-spanning workshop; two days, one workshop event per day, so two workshop events in two days.
-either **july 25th and 26th** or **august 1st and 2nd**.
+either **july 25th and 26th** or **august 1st and 2nd**. **@providers, we can always reschedule the date if it is not available.**
 
-one workshop event takes 2 hours in the afternoon, that is, **14:00 to 16:00**. we can reschedule the time.
+one workshop event takes 2 hours in the afternoon, that is, **14:00 to 16:00**. **again, @providers, we can reschedule the time.**.
 
 #other requirements
 
