@@ -1,13 +1,24 @@
 #_x_00_eyecatch
 
-![w](/_eyecatch_imgs/w.png)
-![o](/_eyecatch_imgs/o.png)
-![r](/_eyecatch_imgs/r.png)
-![k](/_eyecatch_imgs/k.png)
-![s](/_eyecatch_imgs/s.png)
-![h](/_eyecatch_imgs/h.png)
-![o](/_eyecatch_imgs/o2.png)
-![p](/_eyecatch_imgs/p.png)
+![w](https://raw.githubusercontent.com/ccc-cgj/workshop_x/master/_x_00/_eyecatch_imgs/w.PNG)
+
+![o](https://raw.githubusercontent.com/ccc-cgj/workshop_x/master/_x_00/_eyecatch_imgs/o.PNG)
+
+![r](https://raw.githubusercontent.com/ccc-cgj/workshop_x/master/_x_00/_eyecatch_imgs/r.PNG)
+
+![k](https://raw.githubusercontent.com/ccc-cgj/workshop_x/master/_x_00/_eyecatch_imgs/k.PNG)
+
+![s](https://raw.githubusercontent.com/ccc-cgj/workshop_x/master/_x_00/_eyecatch_imgs/s.PNG)
+
+![h](https://raw.githubusercontent.com/ccc-cgj/workshop_x/master/_x_00/_eyecatch_imgs/h.PNG)
+
+![o](https://raw.githubusercontent.com/ccc-cgj/workshop_x/master/_x_00/_eyecatch_imgs/o2.PNG)
+
+![p](https://raw.githubusercontent.com/ccc-cgj/workshop_x/master/_x_00/_eyecatch_imgs/p.PNG)
+
+#if they didn't load
+
+refresh browser.
 
 #well
 
