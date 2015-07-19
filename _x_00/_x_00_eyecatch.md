@@ -1,6 +1,6 @@
 #_x_00_eyecatch
 
-![w](https://raw.githubusercontent.com/ccc-cgj/workshop_x/master/_x_00/_eyecatch_imgs/w.PNG)
+![w](https://raw.githubusercontent.com/ccc-cgj/workshop_x/master/_x_00/_eyecatch_imgs/w.png)
 
 ![o](https://raw.githubusercontent.com/ccc-cgj/workshop_x/master/_x_00/_eyecatch_imgs/o.PNG)
 
