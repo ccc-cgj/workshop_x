@@ -23,7 +23,7 @@ july 25th and 26th. 14:00 to 16:00 for both days.
 most information is updated on [our GitHub repository](https://github.com/ccc-cgj/workshop_x). if you are a GitHub user, watch it and you'll get constant update with new information.
 
 * cb / greekfellows / orangemurphy / Sigurðr has mobile phone number (+86)13764436374 and email address [some.greek.fellows@hotmail.com](mailto:some.greek.fellows@hotmail.com).
-* jerry ling has mobile phone number (+86)13818156048.
+* Jerry Ling has mobile phone number (+86)13818156048.
 
 #if you aren't excited
 
